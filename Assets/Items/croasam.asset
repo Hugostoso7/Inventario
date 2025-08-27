@@ -17,4 +17,4 @@ MonoBehaviour:
   Stackable: 0
   itemIcon: {fileID: 21300000, guid: 0b05b6434114e4618a28ecd5bfe4586d, type: 3}
   type: 1
-  weaponDamage: 12
+  weaponDamage: 1

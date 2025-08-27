@@ -593,9 +593,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1164314177724428122, guid: d6249d273612dea4cb6b37d388fbe5a4, type: 3}
       propertyPath: m_Text
-      value: '
-
-'
+      value: 'item consumivel '
       objectReference: {fileID: 0}
     - target: {fileID: 1164314177759244555, guid: d6249d273612dea4cb6b37d388fbe5a4, type: 3}
       propertyPath: m_Name
